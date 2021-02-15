@@ -1,0 +1,5 @@
+rootProject.name = 'nokia-server-pool'
+
+include 'server-resource-manager'
+include 'client'
+
