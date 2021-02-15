@@ -1,7 +1,8 @@
 package application;
 
 import javax.ws.rs.ApplicationPath;
+import javax.ws.rs.core.Application;
 
 @ApplicationPath("/api")
-public class ServerResourceManagerApplication {
+public class ServerResourceManagerApplication extends Application {
 }
